@@ -1,5 +1,13 @@
 # UI & UX Stuff
 
+## Fonts
+
+```
+Headers: Nova Flat
+Content: Open-Sans
+
+```
+
 ## Colors
 
 ![colors](./colors.png)
